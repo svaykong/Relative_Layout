@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">Relative_Layout</string>
+    <string name="app_name">Relative Layout</string>
+    <string name="text_feedback">Feedback</string>
+    <string name="txt_select_type_of_feedback">Select type of feedback</string>
+    <string name="txt_tell_us_more">Tell us more</string>
+    <string name="et_what_is_your_feedback">What\'s your feedback?</string>
+    <string name="txt_amount_for_write">0 / 120</string>
+    <string name="txt_compliment">Compliment</string>
+    <string name="txt_query_or_suggestion">Query or suggestion</string>
+    <string name="txt_complaint">Complaint</string>
+    <string name="txt_submit_feedback">Submit Feedback</string>
 </resources>
